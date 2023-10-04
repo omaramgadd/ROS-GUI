@@ -31,9 +31,9 @@ When uploading to OneDrive for the first time, you must connect to the account f
 
 ## Technologies Used
 - PyQt5 for GUI design and interaction.
-- ROS (Robot Operating System) for handling ROS bag files.
+- ROS (Robot Operating System) Noetic for handling ROS bag files.
 - Microsoft Graph API for interacting with OneDrive.
-- Python for the backend logic and functionality.
+- Python 3.x for the backend logic and functionality.
 
 ## Features
 - Static Splitting: Allows the user to split a ROS bag into selected topics and save them as a new bag file.
