@@ -13,7 +13,7 @@ GUI Desktop App for handling ROS bags, recording selected topics in realtime and
 ### GUI Design
 - The GUI layout was created using Qt Designer. You can modify the design by creating your preferred layout file inside the project folder and converting it to a Python file using the following command: `pyuic5 {layout_file}.ui -o mainwindow_ui.py`
 - ![ezgif com-optimize](https://github.com/omaramgadd/ROS-GUI/assets/57623082/594a8543-fc78-4820-8d64-25fab6a1bb15)
-- When uploading to OneDrive for the first time, you must connect to the account from the browser and enter the code that will be displayed in the terminal
+
 
 ### Usage Examples
 To perform real-time recording, follow these steps:
@@ -25,6 +25,8 @@ To perform static split, follow these steps:
 - Ensure roscore is active.
 - Run the GUI app using the command: python main.py
 - Select the desired topics and click on the "Static Split" button.
+
+When uploading to OneDrive for the first time, you must connect to the account from the browser and enter the code that will be displayed in the terminal
 
 
 ## Technologies Used
