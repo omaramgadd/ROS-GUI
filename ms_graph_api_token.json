@@ -1,0 +1,54 @@
+{
+    "AccessToken": {
+        "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad-login.microsoftonline.com-accesstoken-f93c8fba-4e4c-4fae-9a83-ddeb6110638d-common-files.readwrite openid profile user.read": {
+            "credential_type": "AccessToken",
+            "secret": "EwBwA8l6BAAUAOyDv0l6PcCVu89kmzvqZmkWABkAAfJFMeogYgJySX3gbSwfU99Z558KEmx5hs2WyoCNvhASa8G0F8T/rc48YQmYioNDuPc20mbq46mwRcG3C8YMIdQUIAC61gKTmH4S9BeLhRK1BuGx6dFbatIAactT4xyDp7aZVVJkqeJZVm91OtW0IcaXwGTnIIv0fXj43NfwXmO5FQTUO/yUD6GQEwhFJ626sW1XJ1H71MMhi9cL+p9J57PED6DZcqdJhwOy203hMkNLWrcP9/Ld6cvt+rF4ZpEd8WRSP/FP9cNPiE1PUCwjufw1k6Z84dZ9Js04dmv1E6ftCvyS7fCZPkgqgDRNu98rW+aASrb4udgeRhy319gpgMcDZgAACKIyAd/GhKIXQALq2JS9goJGuzcEHB7USIE+v+M7Rq0kxPn6/fcA6azlbJWR1HKxJfaZjJEZ6Tljhwsanisjf/MqjFEmCKAs0UVfZDgEyIdGACTfuJ70mTxV//9N6GmRPSfIyeBCWEhqXsKwGxChPrUTlxgJyggWcbnORd0X/cixnvUTKS8enlowlKSY8jx7qgfnxOFnR+odicE6OEz7iTt4FeqhDzV4TU/MWUGGBiz2vSAshWXSnT9Q/43zP3T67+zJl3ZQYXVE2v8hZOhPKTEuIzfcmeCVnvatT8qu6jdbPeGYNcfEgNzBuqmos/i9fHpeL2cczpVCd9L/lpAqw83KJo/96sg4RfuhoT9/RxG2lgHjiBEnqsWWlnsvEPj+/JZ16VctmqhuiS1eXH+LJkY6aXdiUgk5ychdeC0m7R2JFzJQRGIqsz2LE8dANJBSSz2iNboFMZcZCCDNNI+4nTU5QBGU3qRVk4G00RgX15suJp7o42+uN7N/jaZOWI21IKJrId90N4Y8w7Eed6D2eTWaLmrekqUPWI5BrDO98bEfLgm23Zyo52l04hrNKZfaLlBcYL36tNlSfDB9PDe35TvBJTYmcMbkqm95Er+JMFfV5eGv7eqmZ1xBpVRhRxjbBZjWM16Z++PqOOC/7AXNS7TNX51rE+qDxvNcUx2qVLLsj4JJ+kLuZgVDk+KWPNHb0Z0UBI8KPIuC62BBB0ujp/KADlnUINGakL+BIUT7r/LQtiAvj6qNwRCNOUdkIyZGYNlLgiIP51u2UBuHAg==",
+            "home_account_id": "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad",
+            "environment": "login.microsoftonline.com",
+            "client_id": "f93c8fba-4e4c-4fae-9a83-ddeb6110638d",
+            "target": "Files.ReadWrite openid profile User.Read",
+            "realm": "common",
+            "token_type": "Bearer",
+            "cached_at": "1696415397",
+            "expires_on": "1696418997",
+            "extended_expires_on": "1696418997"
+        }
+    },
+    "Account": {
+        "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad-login.microsoftonline.com-common": {
+            "home_account_id": "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad",
+            "environment": "login.microsoftonline.com",
+            "realm": "common",
+            "local_account_id": "00000000-0000-0000-4743-80bffce0308b",
+            "username": "omar.amgad.omar@gmail.com",
+            "authority_type": "MSSTS"
+        }
+    },
+    "IdToken": {
+        "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad-login.microsoftonline.com-idtoken-f93c8fba-4e4c-4fae-9a83-ddeb6110638d-common-": {
+            "credential_type": "IdToken",
+            "secret": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlhvdVhMWVExVGlwNW9kWWFqaUN0RlZnVmFFcyJ9.eyJ2ZXIiOiIyLjAiLCJpc3MiOiJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkL3YyLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFNX2NOcFQ0Mk1HQWFUV0ZnSm9aeUhJIiwiYXVkIjoiZjkzYzhmYmEtNGU0Yy00ZmFlLTlhODMtZGRlYjYxMTA2MzhkIiwiZXhwIjoxNjk2NDk4MTE3LCJpYXQiOjE2OTY0MTE0MTcsIm5iZiI6MTY5NjQxMTQxNywibmFtZSI6Im9tYXIgYW1nYWQiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJvbWFyLmFtZ2FkLm9tYXJAZ21haWwuY29tIiwib2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTQ3NDMtODBiZmZjZTAzMDhiIiwidGlkIjoiOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwiYWlvIjoiRGJYNklzaVF5RWlhUGJUb1BKWFhDRGtKNEMwV0liSEVKazVpSDZnUzhzbmZCZm14WUN4UTNqKjVxYmJUU1NOQSpiWVZsZXBIM0ZmOCFNc1g3SGdYRUppIWRZTGU5TlRoQlFNdExmN3dsMjRqcDdqenhlZjl5WjhNaUtxdGlmeHVISTlOTUkhTHZ4bWpHaDM4ckVkVml4byQifQ.FSg-MWOOP9Qb8a9uPA-O9dBB8Isk4GACRWVDmTUKzhzzAVB7HbAWpeB3MZn569w1fgJZ-Bl9Louqy7QE0xSg7vyz48wE14_V_gQLxTTTkOcxgqtTsI31J6bR1wcAOUOP6NzdT6GQAsY2nUxkgm0POeatdTo43fqPogOaCD06qiGn8ajIRTeMGrzIwQpvZoDAeWdD6J4-AeDIxejDTdw62bj4ZcC6E00SB8kDP2tzoFG3bUdDvM2rAgog_4UL3ILFu8SHp9iFDKj_t4sxsJUdgrSk-GqW1pC6I5mLvFs8tZzygyAL1C-glD4KyuwkPESon0LOqopVemUKPdblQe6DuA",
+            "home_account_id": "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad",
+            "environment": "login.microsoftonline.com",
+            "realm": "common",
+            "client_id": "f93c8fba-4e4c-4fae-9a83-ddeb6110638d"
+        }
+    },
+    "RefreshToken": {
+        "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad-login.microsoftonline.com-refreshtoken-f93c8fba-4e4c-4fae-9a83-ddeb6110638d--files.readwrite openid profile user.read": {
+            "credential_type": "RefreshToken",
+            "secret": "M.C106_SN1.-CYfzil5bIOGFIV!HAM1t1jE83iciDwm5OFTxel5ZWHk7MzFbnNNrm1fkMh5Lq8IDXpyo6Lw06N2uHkN71ztPqo1Lf!ttFbLtNnZlj7ZElMOTdPfG4Y9L83eFFl23d8mJv60v*EQqt5RAzUnbj5!uZ7puQBx5kL6gAjcWKQsfZ5XevZc54Yf2kjiMssmH5c!YFDpvhC0hR54hu7Kia7WKHRXyX!Q8KG2lsamhiE8NcQd1rvfMMUouGwtl!1HGV1KUO!K28CR203YQWHvnODC!*MMDeqE2*u!*kSBUxePe4UQHCPUEswfkX*XgSwuGPcG1*RS4DqYjtqceqsKNWWFeiMU$",
+            "home_account_id": "00000000-0000-0000-4743-80bffce0308b.9188040d-6c67-4c5b-b112-36a304b66dad",
+            "environment": "login.microsoftonline.com",
+            "client_id": "f93c8fba-4e4c-4fae-9a83-ddeb6110638d",
+            "target": "Files.ReadWrite openid profile User.Read",
+            "last_modification_time": "1696415397"
+        }
+    },
+    "AppMetadata": {
+        "appmetadata-login.microsoftonline.com-f93c8fba-4e4c-4fae-9a83-ddeb6110638d": {
+            "client_id": "f93c8fba-4e4c-4fae-9a83-ddeb6110638d",
+            "environment": "login.microsoftonline.com"
+        }
+    }
+}
