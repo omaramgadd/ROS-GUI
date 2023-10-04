@@ -62,10 +62,10 @@ To perform static split, follow these steps:
 
 - Additional Utilities: Functions for formatting file sizes, fetching bag information, and managing UI elements.
 
-### License
+## License
 This project is licensed under the MIT License.
 
-### Contact
+## Contact
 For any questions, feedback, or suggestions, feel free to contact me.
 
 
